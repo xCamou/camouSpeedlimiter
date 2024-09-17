@@ -1,4 +1,4 @@
-A simple cruise control script.
+A simple Speedlimiter script.
 
 F5 opens the esx_menu_dialog and you can enter your speed.
 Press F5 again to deactivate cruise control.
